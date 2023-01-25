@@ -25,3 +25,11 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Mr. Brightside](song/jan/mr_brightside.md)
 [Jenny Was A Friend OF Mine](/song/feb/Jenny_Was_A_Friend_Of_Mine.md)
+
+## Last Month's Favorites 
+
+- [Do I Wanna Know](song/feb/Do_I_Wanna_Know.md) 
+- [We Are The Champions](song/jan/we_are_the_champions.md) 
+- [Mr. Brightside](song/jan/mr_brightside.md)
+- [Jenny Was A Friend OF Mine](/song/feb/Jenny_Was_A_Friend_Of_Mine.md)
+
